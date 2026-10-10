@@ -1,0 +1,1 @@
+I made a chess bot that uses a depth of 3 and the Minimax search algorithm. Rating too low to be measured, worse the Chess.com Martin.<img width="638" height="642" alt="Screenshot 2026-10-10 at 10 24 56 AM" src="https://github.com/user-attachments/assets/d173feaa-7719-42d2-9175-ccc34d169a26" />
